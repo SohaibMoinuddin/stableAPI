@@ -1,0 +1,88 @@
+.mailCards {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cards {
+  width: 70vw;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+/* cards styling */
+
+.cardItem {
+  width: 300px;
+  height: 349px;
+  margin: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+
+.cardItem .img {
+  height: 126px;
+  width: 256px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 1px solid #dee2e6;
+}
+
+/* .cardItem div {
+  height: 126px;
+  width: 256px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 1px solid #dee2e6;
+} */
+
+.cardItem .text {
+  margin-left: 8px;
+  margin-left: 9px;
+}
+
+.cardItem .from {
+  font-weight: bold;
+}
+
+.cardItem img {
+  height: 20px;
+  width: 20px;
+  float: left;
+  margin-right: 5px;
+}
+
+.propertyRow {
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 18px;
+  color: #606060;
+}
+
+.propertyText {
+  padding-top: 1px;
+}
+
+.mailCount {
+  margin-left: 232px;
+  margin-right: 232px;
+  margin-top: 39px;
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #606060;
+}
