@@ -83,6 +83,7 @@
 }
 
 .previousButton {
+  margin-left: 440px;
   font-family: Noto Sans;
   font-style: normal;
   font-weight: normal;
@@ -100,9 +101,11 @@
   box-sizing: border-box;
   border-radius: 5px;
   color: #c0c0c0;
+  display: inline-block;
 }
 
 .nextButton {
+  margin-left: 10px;
   font-family: Noto Sans;
   font-style: normal;
   font-weight: normal;
@@ -120,4 +123,5 @@
   box-sizing: border-box;
   border-radius: 5px;
   color: #606060;
+  display: inline-block;
 }
