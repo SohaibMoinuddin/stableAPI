@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/stableAPI/static/css/main.334b6776.chunk.css",
-    "main.js": "/stableAPI/static/js/main.c83ec8bb.chunk.js",
-    "main.js.map": "/stableAPI/static/js/main.c83ec8bb.chunk.js.map",
-    "runtime-main.js": "/stableAPI/static/js/runtime-main.518a63e3.js",
-    "runtime-main.js.map": "/stableAPI/static/js/runtime-main.518a63e3.js.map",
-    "static/js/2.b9cfc69f.chunk.js": "/stableAPI/static/js/2.b9cfc69f.chunk.js",
-    "static/js/2.b9cfc69f.chunk.js.map": "/stableAPI/static/js/2.b9cfc69f.chunk.js.map",
-    "static/js/3.50f5a7af.chunk.js": "/stableAPI/static/js/3.50f5a7af.chunk.js",
-    "static/js/3.50f5a7af.chunk.js.map": "/stableAPI/static/js/3.50f5a7af.chunk.js.map",
+    "main.css": "/stableAPI/static/css/main.7ae4236a.chunk.css",
+    "main.js": "/stableAPI/static/js/main.05491f7c.chunk.js",
+    "main.js.map": "/stableAPI/static/js/main.05491f7c.chunk.js.map",
+    "runtime-main.js": "/stableAPI/static/js/runtime-main.3708df8f.js",
+    "runtime-main.js.map": "/stableAPI/static/js/runtime-main.3708df8f.js.map",
+    "static/js/2.7ad31500.chunk.js": "/stableAPI/static/js/2.7ad31500.chunk.js",
+    "static/js/2.7ad31500.chunk.js.map": "/stableAPI/static/js/2.7ad31500.chunk.js.map",
+    "static/js/3.0d467bbd.chunk.js": "/stableAPI/static/js/3.0d467bbd.chunk.js",
+    "static/js/3.0d467bbd.chunk.js.map": "/stableAPI/static/js/3.0d467bbd.chunk.js.map",
     "index.html": "/stableAPI/index.html",
-    "static/css/main.334b6776.chunk.css.map": "/stableAPI/static/css/main.334b6776.chunk.css.map",
-    "static/js/2.b9cfc69f.chunk.js.LICENSE.txt": "/stableAPI/static/js/2.b9cfc69f.chunk.js.LICENSE.txt",
+    "static/css/main.7ae4236a.chunk.css.map": "/stableAPI/static/css/main.7ae4236a.chunk.css.map",
+    "static/js/2.7ad31500.chunk.js.LICENSE.txt": "/stableAPI/static/js/2.7ad31500.chunk.js.LICENSE.txt",
     "static/media/company.63f88ea7.svg": "/stableAPI/static/media/company.63f88ea7.svg",
     "static/media/forward.00430978.svg": "/stableAPI/static/media/forward.00430978.svg",
     "static/media/processing.8a3b077d.svg": "/stableAPI/static/media/processing.8a3b077d.svg",
@@ -21,9 +21,9 @@
     "static/media/stable-logo.a07ce24e.svg": "/stableAPI/static/media/stable-logo.a07ce24e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.518a63e3.js",
-    "static/js/2.b9cfc69f.chunk.js",
-    "static/css/main.334b6776.chunk.css",
-    "static/js/main.c83ec8bb.chunk.js"
+    "static/js/runtime-main.3708df8f.js",
+    "static/js/2.7ad31500.chunk.js",
+    "static/css/main.7ae4236a.chunk.css",
+    "static/js/main.05491f7c.chunk.js"
   ]
 }
