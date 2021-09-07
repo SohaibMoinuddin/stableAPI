@@ -35,15 +35,6 @@
   border-bottom: 1px solid #dee2e6;
 }
 
-/* .cardItem div {
-  height: 126px;
-  width: 256px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-bottom: 1px solid #dee2e6;
-} */
-
 .cardItem .text {
   margin-left: 8px;
   margin-left: 9px;
@@ -74,9 +65,7 @@
 }
 
 .mailCount {
-  margin-left: 232px;
-  margin-right: 232px;
-  margin-top: 39px;
+  margin: 39px 232px 39px 232px;
   font-family: Noto Sans;
   font-style: normal;
   font-weight: bold;
@@ -84,5 +73,51 @@
   line-height: 22px;
   display: flex;
   align-items: center;
+  color: #606060;
+  display: inline-block;
+}
+
+.navButtons {
+  display: inline-block;
+  text-align: right;
+}
+
+.previousButton {
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 100px;
+  height: 38px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 5px;
+  color: #c0c0c0;
+}
+
+.nextButton {
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 100px;
+  height: 38px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 5px;
   color: #606060;
 }

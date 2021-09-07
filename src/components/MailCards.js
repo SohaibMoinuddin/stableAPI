@@ -2,7 +2,6 @@ import React from "react";
 import data from "../helpers/data.json";
 import Card from "./Card";
 import "../style/MailCards.css";
-import { Button, ButtonGroup } from "reactstrap";
 
 function MailCards(props) {
   const cards = data.map((item) => {
@@ -14,13 +13,11 @@ function MailCards(props) {
       <div className="mailCards">
         <div className="cards">{cards}</div>
       </div>
-      <div>
+      <div className="cardNav">
         <div className="mailCount">{cards.length + " mail items"}</div>
         <div className="navButtons">
-          <ButtonGroup>
-            <Button>Previous</Button>
-            <Button>Next</Button>
-          </ButtonGroup>
+          <button className="previousButton">Previous</button>
+          <button className="nextButton">Next</button>
         </div>
       </div>
     </>
